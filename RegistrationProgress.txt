@@ -1,0 +1,1 @@
+Designed the Database and written down datatypes, Created ER diagram as well
